@@ -16,7 +16,7 @@
 
 <br/>
 
-## ▌ ABOUT THE DEPARTMENT
+## ▌ ABOUT
 
 **InteractiveWorkers** provides fully managed operational solutions—pairing dedicated global talent with enterprise-grade infrastructure, IT security, and EOR coverage, all backed by a **100% Continuity SLA**.
 
